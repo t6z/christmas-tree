@@ -1,0 +1,7 @@
+.vscode
+archive
+build
+*.FCBak
+/mplab/xmas-tree.X/dist/
+/mplab/dist/
+/test1/dist/
