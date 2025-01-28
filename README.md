@@ -1,6 +1,6 @@
 # Christmas Tree
 
-I made a little Christmas tree that lights up and plays a song through a buzzer. I wanted some better experience with schematic capture and PCB layout, and wanted to see how good of a job quick turnaround prototype shops (PCBWAY) do.
+I made a little Christmas tree that lights up and plays a song through a buzzer. I wanted a simple project to expand my skills with schematic capture and PCB layout, and to see how accurate the quick turnaround prototype shops (PCBWAY) do. This project uses an ATTiny402, 3 shift registers to control the LED's, and a simple circuit to try a piezo buzzer. I used Kicad as my EDA tool. It was fun using AI + InkScape to generate different graphics for the tree and import them for the edge cut and silkscreen layers.
 
 ![christmas-tree-leds](https://github.com/user-attachments/assets/a0ded5a0-d2da-4026-9995-bac7d6903f99)
 
